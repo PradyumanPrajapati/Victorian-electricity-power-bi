@@ -217,15 +217,12 @@ Other techniques used:
 
 ```
 ├── README.md
-├── report/
-│   ├── nem-electricity.pbix             Power BI report
-│   ├── nem-electricity.pbip             Power BI Project (open in Power BI Desktop)
-│   ├── nem-electricity.SemanticModel/   Model, Power Query and DAX as text
-│   └── nem-electricity.Report/          Report layout as text
-└── screenshots/
+├── VIC_ELECTRICITY.pbix             Power BI report
+├── DATA                             Source Data Files
+└── screenshots/                     Report screenshots used in this
 ```
 
-To open the report, use the live link above, or open `report/nem-electricity.pbix` in Power BI Desktop and refresh. The data downloads directly from AEMO.
+To open the report, use the live link above, or open `VIC_ELECTRICITY.pbix` in Power BI Desktop and refresh. The data downloads directly from AEMO.
 
 ## Data sources
 
